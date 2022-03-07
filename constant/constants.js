@@ -53,7 +53,7 @@ export const projects = [
     title: 'E-Commerce',
     description:
       'This is a Full Stack  E-commerce Project Using React, MongoDB Express and Node.js',
-    image: '/images/error.png',
+    image: '/images/e_commerce.PNG',
     tags: ['React', 'Node.Js', 'Express', 'MongoDB'],
     source: 'https://github.com/rahulp18/fullStack__e-commerce',
     visit: 'https://github.com/rahulp18/fullStack__e-commerce',
